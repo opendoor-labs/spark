@@ -1,3 +1,8 @@
+# 🚨 OPENDOOR NOTE:
+Altho there's no comments changed on master branch, we store our changes on these releases, see here. So don't delete this repo until you check for usages of the .tar.gz files:
+
+https://github.com/opendoor-labs/spark/releases
+
 # Apache Spark
 
 Spark is a unified analytics engine for large-scale data processing. It provides
