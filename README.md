@@ -3,6 +3,11 @@ Altho there's no comments changed on master branch, we store our changes on thes
 
 https://github.com/opendoor-labs/spark/releases
 
+As of April 2022, it is used by: 
+- https://github.com/opendoor-labs/code/tree/master/py/lib/spark
+- https://github.com/opendoor-labs/od_pyspark_util/blob/master/pyproject.toml
+- Code search: https://livegrep.managed.services.opendoor.com/search/opendoor?q=opendoor-labs%2Fspark&fold_case=auto&regex=false&context=true
+
 # Apache Spark
 
 Spark is a unified analytics engine for large-scale data processing. It provides
